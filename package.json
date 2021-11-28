@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/awesome-github-profile/",
+    "build": "vite build --base=/github-readme-collection/",
     "build:vercel": "vite build"
   },
   "dependencies": {
@@ -25,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/zzetao/awesome-github-profile.github.io/issues"
   },
-  "homepage": "https://uvacoder.github.io/awesome-github-profile/"
+  "homepage": "https://uvacoder.github.io/github-readme-collection/"
 }
